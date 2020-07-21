@@ -1,0 +1,59 @@
+Location,Region,Nreefs,Mean_P(no_sharks)
+Jamaica,Western Atlantic,4,0
+Qatar,Indian Ocean,3,0
+Vietnam,Western Pacific,4,0
+India,Indian Ocean,2,0
+Kenya,Indian Ocean,4,0
+Dutch Antilles Windward,Western Atlantic,12,0
+Dominican Republic,Western Atlantic,4,0
+French West Indies,Western Atlantic,4,0
+Bermuda,Western Atlantic,1,0
+Sri Lanka,Indian Ocean,3,0.333333333
+Philippines,Western Pacific,8,0.375
+Guam,Central Pacific,8,0.375
+Colombia,Western Atlantic,4,0.5
+Taiwan,Western Pacific,4,0.5
+Brazil,Western Atlantic,7,0.571428571
+Cuba,Western Atlantic,5,0.6
+Mozambique,Indian Ocean,7,0.714285714
+Dutch Antilles Leeward,Western Atlantic,11,0.727272727
+Barbados,Western Atlantic,4,0.75
+USA-Pacific,Central Pacific,12,0.833333333
+Malaysia,Western Pacific,8,0.875
+Belize,Western Atlantic,8,0.875
+Indonesia,Western Pacific,15,0.933333333
+Australia-Indian Ocean,Indian Ocean,44,0.954545455
+USA-Western Atlantic,Western Atlantic,9,1
+Bahamas,Western Atlantic,18,1
+Australia-Pacific,Central Pacific,16,1
+Australia IOT,Indian Ocean,20,1
+Maldives,Indian Ocean,5,1
+Solomon Islands,Western Pacific,3,1
+Palau,Central Pacific,4,1
+American Samoa,Central Pacific,2,1
+New Caledonia,Central Pacific,5,1
+Trinidad and Tobago,Western Atlantic,5,1
+Vanuatu,Central Pacific,4,1
+British West Indies,Western Atlantic,1,1
+Fiji,Central Pacific,10,1
+South Africa,Indian Ocean,2,1
+Niue,Central Pacific,2,1
+Japan,Western Pacific,2,1
+Seychelles,Indian Ocean,2,1
+Kiribati,Central Pacific,2,1
+Federated States of Micronesia,Central Pacific,4,1
+French Polynesia,Central Pacific,30,1
+Samoa,Central Pacific,2,1
+Turks and Caicos,Western Atlantic,2,1
+Antigua and Barbuda,Western Atlantic,2,1
+Columbia SF,Western Atlantic,2,1
+Jamaica PB,Western Atlantic,1,1
+Mayotte,Indian Ocean,3,1
+Tanzania,Indian Ocean,2,1
+Papua New Guinea,Western Pacific,6,1
+Tonga,Central Pacific,2,1
+New Zealand,Central Pacific,2,1
+Madagascar,Indian Ocean,7,1
+Saudi Arabia-Red Sea,Indian Ocean,2,1
+Cook Islands,Central Pacific,4,1
+Puerto Rico,Western Atlantic,2,1
